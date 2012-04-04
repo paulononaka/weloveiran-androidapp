@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">We Love Iran</string>
+    <string name="app_title">IRANIANS</string>
+    <string name="app_subtitle">we will never bomb your country</string>
+    <string name="btnTakePhoto">Take a new photo</string>
+    <string name="btnChoosePhoto">Choose an existing photo</string>
+</resources>
